@@ -2,7 +2,7 @@
     "data":[
         {
             "id": 1,
-            "img":"https://images-eu.ssl-images-amazon.com/images/I/41cWqh0OeQL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "img":"book_1.jpg",
             "course_code":"123",
             "title": "My Test Book",
             "count":10
