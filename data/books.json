@@ -1,1 +1,7 @@
-{"data": [{"id": 1, "img": "book_1.jpeg", "course_code": "A01", "title": "Academic Writing", "count": 12}, {"id": 2, "img": "book_2.jpeg", "course_code": "A02", "title": "Zietgiest", "count": 8}]}
+{"data": [
+    {"id": 1, "img": "book_1.jpeg", "course_code": "A03", "title": "Academic Writing", "count": 12},
+    {"id": 2, "img": "book_2.jpeg", "course_code": "A04", "title": "Zietgiest", "count": 8}
+
+    
+    ]
+}
