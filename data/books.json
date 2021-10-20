@@ -2,7 +2,7 @@
     "data":[
         {
             "id": 1,
-            "img":"book_1.jpg",
+            "img":"",
             "course_code":"123",
             "title": "My Test Book",
             "count":10

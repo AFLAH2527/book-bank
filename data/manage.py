@@ -9,7 +9,7 @@ def load_data() -> List:
 
 def save_data(data):
     with open('books.json', 'w') as output_file:
-        json.dump(data, output_file)
+        json.dump({'data': data}, output_file)
 
 
 def help():
