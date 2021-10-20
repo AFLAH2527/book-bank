@@ -3,7 +3,7 @@ const searchTerm = document.querySelector("#search-term");
 
 let books = [];
 
-searchTerm.addEventListener("change", (e) => {
+searchTerm.addEventListener("input", (e) => {
   searchBook(e.target.value.toLowerCase());
 });
 
