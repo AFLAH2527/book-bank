@@ -11,7 +11,7 @@ const bookTile = ({
     <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">${course_code}</h3>
     <h2 class="text-gray-900 title-font text-lg font-medium">${title}</h2>
     <p class="mt-1 mb-4">Count:${count}</p>
-    <a target="_blank" class="mt-4 px-2 py-1 bg-blue-500 text-white rounded-md" href="https://wa.me/919447931967?text=${encodeURI(
+    <a target="_blank" class="mt-4 px-2 py-1 bg-blue-500 text-white rounded-md" href="https://wa.me/917736952527?text=${encodeURI(
       `Hi i would like to order the book ${title} with the course code: ${course_code}`
     )}">Request </a>
   </div>
