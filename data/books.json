@@ -1,13 +1,13 @@
 {"data": [
-    {"id": 1, "img": "Transactions.jpeg", "course_code": "BEN1A01", "title": "Transactions:Essential English Language Skills", "count": 9},
-    {"id": 3, "img": "Ways_with_words.jpeg", "course_code": "BEN1A02", "title": "Ways with Words:Literatures in English", "count": 7},
+    {"id": 1, "img": "Transactions.jpeg", "course_code": "BEN1A01", "title": "Transactions:Essential English Language Skills", "count": 25},
+    {"id": 3, "img": "Ways_with_words.jpeg", "course_code": "BEN1A02", "title": "Ways with Words:Literatures in English", "count": 25},
     {"id": 7, "img": "Zietgiest.jpeg", "course_code": "BEN2A04", "title": "Zietgiest:Reading on Contemporary Culture", "count": 4},
     {"id": 10, "img": "Signatures.jpeg", "course_code": "BEN3A05", "title": "Signatures:Expressing the Self (Guide)", "count": 1},
     {"id": 11, "img": "Spectrum.jpeg", "course_code": "BEN4A06", "title": "Spectrum:Literature and Comtemporary Issues", "count": 1},
-    {"id": 12, "img": "Arabic1.jpeg", "course_code": "BAR1A01", "title": "Communicative Skills in Arabic (BA,BSc)", "count": 1},
-    {"id": 13, "img": "Arabic2.jpeg", "course_code": "BAR1A02", "title": "Communicative Skills in Arabic (BCom,BBA)", "count": 4},
-    {"id": 14, "img": "Arabic3.jpeg", "course_code": "BAR1A03", "title": "Communicative Skills in Arabic (CS,BAMC)", "count": 2},
-    {"id": 15, "img": "Malayalam1.jpeg", "course_code": "BML1A07(1)", "title": "Malayala Sahithyam I", "count": 2}
+    {"id": 12, "img": "Arabic1.jpeg", "course_code": "BAR1A01", "title": "Communicative Skills in Arabic (BA,BSc)", "count": 10},
+    {"id": 13, "img": "Arabic2.jpeg", "course_code": "BAR1A02", "title": "Communicative Skills in Arabic (BCom,BBA)", "count": 5},
+    {"id": 14, "img": "Arabic3.jpeg", "course_code": "BAR1A03", "title": "Communicative Skills in Arabic (CS,BAMC)", "count": 5},
+    {"id": 15, "img": "Malayalam1.jpeg", "course_code": "BML1A07(1)", "title": "Malayala Sahithyam I", "count": 10}
 
     
     ]
