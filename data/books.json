@@ -1,14 +1,7 @@
 {"data": [
-    {"id": 1, "img": "Transactions.jpeg", "course_code": "BEN1A01", "title": "Transactions:Essential English Language Skills", "count": 20},
-    {"id": 3, "img": "Ways_with_words.jpeg", "course_code": "BEN1A02", "title": "Ways with Words:Literatures in English", "count": 20},
-    {"id": 12, "img": "Arabic1.jpeg", "course_code": "BAR1A01", "title": "Communicative Skills in Arabic (BA,BSc)", "count": 8},
-    {"id": 13, "img": "Arabic2.jpeg", "course_code": "BAR1A02", "title": "Communicative Skills in Arabic (BCom,BBA)", "count": 5},
-    {"id": 14, "img": "Arabic3.jpeg", "course_code": "BAR1A03", "title": "Communicative Skills in Arabic (CS,BAMC)", "count": 5},
-    {"id": 15, "img": "Malayalam1.jpeg", "course_code": "BML1A07(1)", "title": "Malayala Sahithyam I", "count": 10},
-    {"id": 16, "img": "ModernIndianHistory.jpeg", "course_code": "BHS1C01", "title": "Modern Indian History(1857 to the Present)", "count": 5},
-    {"id": 17, "img": "IntroductionToElectronicMedia.jpeg", "course_code": "BJS1C05", "title": "Introduction to Electronic Media", "count": 5},
-    {"id": 18, "img": "ManagerialEconomics.jpeg", "course_code": "BCM1C01", "title": "Managerial Economics", "count": 5},
-    {"id": 18, "img": "ClassicalArabicLiterature.jpeg", "course_code": "BAR1B01", "title": "Classical Arabic Literature", "count": 5},
+    {"id": 13, "img": "Arabic2.jpeg", "course_code": "BAR1A02", "title": "Communicative Skills in Arabic (BCom,BBA)", "count": 4},
+    {"id": 14, "img": "Arabic3.jpeg", "course_code": "BAR1A03", "title": "Communicative Skills in Arabic (CS,BAMC)", "count": 1},
+    {"id": 18, "img": "ManagerialEconomics.jpeg", "course_code": "BCM1C01", "title": "Managerial Economics", "count": 2},
     {"id": 18, "img": "MalayalaSahityamI.jpeg", "course_code": "----", "title": "Malayala Sahityam I", "count": 1},
     {"id": 18, "img": "CommunicationSkillsInArabic.jpeg", "course_code": "----", "title": "Communication Skills in Arabic", "count": 3}
 
