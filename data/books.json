@@ -1,8 +1,5 @@
 {"data": [
     {"id": 13, "img": "Arabic2.jpeg", "course_code": "BAR1A02", "title": "Communicative Skills in Arabic (BCom,BBA)", "count": 4},
-    {"id": 14, "img": "Arabic3.jpeg", "course_code": "BAR1A03", "title": "Communicative Skills in Arabic (CS,BAMC)", "count": 1},
-    {"id": 18, "img": "ManagerialEconomics.jpeg", "course_code": "BCM1C01", "title": "Managerial Economics", "count": 2},
-    {"id": 18, "img": "MalayalaSahityamI.jpeg", "course_code": "----", "title": "Malayala Sahityam I", "count": 1},
     {"id": 18, "img": "CommunicationSkillsInArabic.jpeg", "course_code": "----", "title": "Communication Skills in Arabic", "count": 3}
 
     
