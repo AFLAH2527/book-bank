@@ -1,5 +1,133 @@
 {
     "data":[
+        {   
+            "code": "-----",
+            "title": "BA Arabic & Islamic History",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1d9HMdkB7PbJBOg3BWZVh-KUrPAtbBRov?usp=sharing"
+        },
+        {
+            "code": "-----",
+            "title": "BA Economics",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1EvDuVqcZICGdeaNqnE76LsO1ojftzLy4?usp=sharing"
+        },
+        {
+            "code": "-----",
+            "title": "BA English Language & Literature",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1jGoQrUoOa8oqz60-w7L905Z9AWoSD1x4?usp=sharing"
+        },
+        {
+            "code": "-----",
+            "title": "BA Functional English",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1CAq4pOWnXsIKgYF0WLDsU07HdvWJUF_-?usp=sharing"
+        },
+        {
+            "code": "-----",
+            "title": "BA Malayalam",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1u2nQQnnG67NavdN6tg6gupxLUNseZhC7?usp=sharing"
+        },
+        {
+            "code": "-----",
+            "title": "BA Sociology",
+            "pdf": "#",
+            "prev_question": "#"
+        },
+        {
+            "code": "-----",
+            "title": "BSc Zoology",
+            "pdf": "#",
+            "prev_question": "#"
+        },
+        {
+            "code": "-----",
+            "title": "BSc Botany",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1pdNwMs3fv87XPA065-9GLJAZb-EOQr8N?usp=sharing"
+        },
+        {
+            "code": "-----",
+            "title": "BSc Physics",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1-ULSwcfFlwPGJnuPrgA_XF7vLgxb9a1g?usp=sharing"
+        },
+        {
+            "code": "-----",
+            "title": "BSc Chemistry",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/192Ce86BQT3DZmzQ9o3edId6K-5RL6ND2?usp=sharing"
+        },
+        {
+            "code": "-----",
+            "title": "BSc Mathematics",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1NG7p5TTOFKvx4WlDni13v4f31LjfZxWn?usp=sharing"
+        },
+        
+        {
+            "code": "-----",
+            "title": "BSc Computer Science",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/11uw-8J2PU-diWOlbDK77uAQeUH8B5VPd?usp=sharing"
+        },
+        {
+            "code": "-----",
+            "title": "BSc Psychology",
+            "pdf": "#",
+            "prev_question": "#"
+        },
+        {
+            "code": "-----",
+            "title": "BSc Statistics",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1RNGVPDq2S8YBtaYMhQoSH98EuJxsm44g?usp=sharing"
+        },
+        
+        {
+            "code": "-----",
+            "title": "BA Multimedia Communication",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1stBsCMDwja_K6NL3dNqS1s3wdbSdAveQ?usp=sharing"
+        },
+        {
+            "code": "-----",
+            "title": "BBA",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1I9wbkKfUPNg7UMBTbFsqAuN-IG14JlGa?usp=sharing"
+        },
+        {
+            "code": "-----",
+            "title": "BCom",
+            "pdf": "#",
+            "prev_question": "#"
+        },
+        {
+            "code": "-----",
+            "title": "BCom CA",
+            "pdf": "#",
+            "prev_question": "#"
+        },
+
+
+        {
+            "code": "-----",
+            "title": "Open Courses",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1yjrijIcU7R5ug24sf6Z9kXUuldGXt_vI?usp=sharing"
+        },
+        
+        
+        
+        
+
+
+
+
+
+
         {
             "code": "BEN1A01",
             "title": "Transactions",
