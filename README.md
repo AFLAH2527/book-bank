@@ -1,2 +1,2 @@
 # book-bank
-[View Live Website](https://fcbookbank.netlify.app/)
+[View Live Website](https://fraternityfcbookbank.netlify.app/)
