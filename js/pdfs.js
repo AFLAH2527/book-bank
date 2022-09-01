@@ -1,8 +1,8 @@
 const pdfTable = document.querySelector("#pdf-table");
 
-pdfTable.innerHTML = "loading..";
+pdfTable.innerHTML = `<img src="img/loading.gif">`;
 
-loadData("pdfs", (data) => {
+loadDataOld("pdfs", (data) => {
   pdfTable.innerHTML = "";
   data.data.forEach((element) => {
     pdfTable.innerHTML += pdfTile(element);

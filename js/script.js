@@ -1,4 +1,9 @@
-const bookTile = ({img, course_code, title, count}) => ` <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+const bookTile = ({
+  img,
+  course_code,
+  title,
+  count,
+}) => ` <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
 <a class="block relative h-48 rounded overflow-hidden">
   <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="${img}">
 </a>
@@ -10,31 +15,31 @@ const bookTile = ({img, course_code, title, count}) => ` <div class="lg:w-1/4 md
 </div>`;
 
 const books = [
-    {
-        img: 'test'
-    }
+  {
+    img: "test",
+  },
 ];
 
-const bookList = document.querySelector('#book-list');
+const bookList = document.querySelector("#book-list");
 
-bookList.innerHTML = "loading..";
+bookList.innerHTML = `<img src="img/loading.gif">`;
 
-function loadBooks(callBack) {   
-    var xobj = new XMLHttpRequest();
-    xobj.overrideMimeType("application/json");
-    xobj.open('GET', 'data/books.json', true);
-    xobj.onreadystatechange = function () {
-          if (xobj.readyState == 4 && xobj.status == "200") {
-              bookList.innerHTML = "";
-            callBack(JSON.parse(xobj.responseText));
-          }
-    };
-    xobj.send(null);  
- }
+function loadBooks(callBack) {
+  var xobj = new XMLHttpRequest();
+  xobj.overrideMimeType("application/json");
+  xobj.open("GET", "data/books.json", true);
+  xobj.onreadystatechange = function () {
+    if (xobj.readyState == 4 && xobj.status == "200") {
+      bookList.innerHTML = "";
+      callBack(JSON.parse(xobj.responseText));
+    }
+  };
+  xobj.send(null);
+}
 
- loadBooks((data)=>{
-     
-     data.data.forEach((element) => {
-         bookList.innerHTML += bookTile(element);
-     });
- })
+//  loadBooks((data)=>{
+
+//  data.data.forEach((element) => {
+//      bookList.innerHTML += bookTile(element);
+//  });
+//  })

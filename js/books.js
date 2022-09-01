@@ -7,7 +7,7 @@ searchTerm.addEventListener("input", (e) => {
   searchBook(e.target.value.toLowerCase());
 });
 
-bookList.innerHTML = "loading..";
+bookList.innerHTML = `<img src="img/loading.gif">`;
 
 const renderBooks = (data) => {
   bookList.innerHTML = "";
@@ -16,11 +16,12 @@ const renderBooks = (data) => {
   });
 };
 
-loadData("books", (data) => {
-  books = data.data;
+loadData("books", (loaded_books) => {
+  books = loaded_books;
   renderBooks(books);
 });
 
+// fetchBooks();
 const searchBook = (term) => {
   let newBooks = books.filter(
     (book) =>
