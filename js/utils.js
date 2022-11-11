@@ -26,6 +26,9 @@ function loadData(path, callBack) {
           title: record.fields.Name.split(":")[1],
           course_code: record.fields.Name.split(":")[0],
           count: record.fields["Remaining Books"],
+          image:
+            record.fields["Book cover image"] &&
+            record.fields["Book cover image"][0].thumbnails.full.url,
         };
       });
       callBack(books);

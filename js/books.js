@@ -18,6 +18,7 @@ const renderBooks = (data) => {
 
 loadData("books", (loaded_books) => {
   books = loaded_books;
+  console.log(books);
   renderBooks(books);
 });
 
