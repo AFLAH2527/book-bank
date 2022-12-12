@@ -2,6 +2,12 @@
     "data":[
         {   
             "code": "3rd Sem",
+            "title": "Second Languages",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1Iy7xyP2YxF2mzVqUJOvgj8rcf_wfWnwF?usp=share_link"
+        },
+        {   
+            "code": "3rd Sem",
             "title": "BA Arabic & Islamic History",
             "pdf": "#",
             "prev_question": "https://drive.google.com/drive/folders/1LAwKVmc1y36ggLry4PINCvf1h_8ssnT5?usp=share_link"
