@@ -1,138 +1,22 @@
 {
     "data":[
         {   
-            "code": "6th Sem",
-            "title": "BA Arabic & Islamic History",
-            "pdf": "#",
-            "prev_question": "https://drive.google.com/drive/folders/1RSdeQTg-Z7PcQQkYc8Ct6KWkHkj4ZYOV?usp=share_link"
-        },
-        {
-            "code": "6th Sem",
-            "title": "BA Economics",
-            "pdf": "#",
-            "prev_question": "https://drive.google.com/drive/folders/1iRJOZIclAe994s-VAQif0Yx11MfPQ5vR?usp=share_link"
-        },
-        {
-            "code": "6th Sem",
-            "title": "BA English Language & Literature",
-            "pdf": "#",
-            "prev_question": "https://drive.google.com/drive/folders/1ZSZ89o8m89paVzMteJWyueXBWPQB85Bx?usp=share_link"
-        },
-        {
-            "code": "6th Sem",
-            "title": "BA Functional English",
-            "pdf": "#",
-            "prev_question": "https://drive.google.com/drive/folders/1mz8RyjmzIsW43Ep8WZQyBg_GRKZxjkR8?usp=share_link"
-        },
-        {
-            "code": "6th Sem",
-            "title": "BA Malayalam",
-            "pdf": "#",
-            "prev_question": "https://drive.google.com/drive/folders/136_Vtco2xm16_M46P7UDD-Z_48S2YxiN?usp=share_link"
-        },
-        {
-            "code": "6th Sem",
-            "title": "BA Sociology",
-            "pdf": "#",
-            "prev_question": "https://drive.google.com/drive/folders/1Cmn0Xl8qGA3z3T2RN2Wq3z3fJwD7ZEjB?usp=share_link"
-        },
-        {
-            "code": "6th Sem",
-            "title": "BSc Zoology",
-            "pdf": "#",
-            "prev_question": "https://drive.google.com/drive/folders/16zrURTfpBO8Bc3O5xMcRBDQLkK42v6yq?usp=share_link"
-        },
-        {
-            "code": "6th Sem",
-            "title": "BSc Botany",
-            "pdf": "#",
-            "prev_question": "https://drive.google.com/drive/folders/194Z_kMwz8N5FN5zIkMs-LdZFGuPY5jgq?usp=share_link"
-        },
-        {
-            "code": "6th Sem",
-            "title": "BSc Physics",
-            "pdf": "#",
-            "prev_question": "https://drive.google.com/drive/folders/1ytLtbFRWoBoWdHGtGwzJsPirvwlGD_FY?usp=share_link"
-        },
-        {
-            "code": "6th Sem",
-            "title": "BSc Chemistry",
-            "pdf": "#",
-            "prev_question": "https://drive.google.com/drive/folders/1HmK1ZY25u_mcd3GYQVHwQFXyxsow1q9L?usp=share_link"
-        },
-        {
-            "code": "6th Sem",
-            "title": "BSc Mathematics",
-            "pdf": "#",
-            "prev_question": "https://drive.google.com/drive/folders/1bZb9Z8bAhN2FCNoWA5-rDdq0ypU82N7q?usp=share_link"
-        },
-        
-        {
-            "code": "6th Sem",
-            "title": "BSc Computer Science",
-            "pdf": "#",
-            "prev_question": "https://drive.google.com/drive/folders/17Ac1adaCJVEtbArB80LdDCyd-GnRk1Pr?usp=share_link"
-        },
-        {
-            "code": "6th Sem",
-            "title": "BSc Psychology",
-            "pdf": "#",
-            "prev_question": "https://drive.google.com/drive/folders/1oTFOm1ma0LilipITN3YOSJjp4qlWuaxh?usp=share_link"
-        },
-        {
-            "code": "6th Sem",
-            "title": "BSc Statistics",
-            "pdf": "#",
-            "prev_question": "https://drive.google.com/drive/folders/1K9OrF19v4vThvUNq7xABSd3ipsL8OmNo?usp=share_link"
-        },
-        
-        {
-            "code": "6th Sem",
-            "title": "BA Multimedia Communication",
-            "pdf": "#",
-            "prev_question": "https://drive.google.com/drive/folders/1sVw5OHLe7z_lsxpt3PVxdJppXs4Jig0r?usp=share_link"
-        },
-        {
-            "code": "6th Sem",
-            "title": "BBA",
-            "pdf": "#",
-            "prev_question": "https://drive.google.com/drive/folders/182IZgepsL95wmLzNrar88j8x8wUO6ZWy?usp=share_link"
-        },
-        {
-            "code": "6th Sem",
-            "title": "BCom",
-            "pdf": "#",
-            "prev_question": "https://drive.google.com/drive/folders/1Mn-6Isr8t-3TK3Zgvrh5-BcTMU6dTwph?usp=share_link"
-        },
-        {
-            "code": "6th Sem",
-            "title": "BCom CA",
-            "pdf": "#",
-            "prev_question": "https://drive.google.com/drive/folders/1Eq90N_FE6xIEUK3G5cV0OmpJXFJVv8gw?usp=share_link"
-        },
-        {
-            "code": "6th Sem",
-            "title": "BVoc Automobiles",
-            "pdf": "#",
-            "prev_question": "https://drive.google.com/drive/folders/10gKywsYsa0TuFLvTbPDh3TRkx0g__ZVx?usp=share_link"
-        },
-        {
-            "code": "6th Sem",
-            "title": "BVoc Software Developement",
-            "pdf": "#",
-            "prev_question": "https://drive.google.com/drive/folders/1108noeittcaIcBYdtNV9zsXBpH1R5Cmd?usp=share_link"
-        },
-        {   
-            "code": "1st Sem",
-            "title": "Second Languages",
-            "pdf": "#",
-            "prev_question": "https://drive.google.com/drive/folders/10lPur0RnJEyI6pqJCrBuhOz_3BaWWQ7F?usp=share_link"
-        },
-        {   
             "code": "1st Sem",
             "title": "BA Arabic & Islamic History",
             "pdf": "#",
             "prev_question": "https://drive.google.com/drive/folders/1dlecZ2csyVat2MlCJS-0_1BbIPSakNw9?usp=share_link"
+        },
+        {   
+            "code": "3rd Sem",
+            "title": "BA Arabic & Islamic History",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1LAwKVmc1y36ggLry4PINCvf1h_8ssnT5?usp=drive_link"
+        },
+        {   
+            "code": "5th Sem",
+            "title": "BA Arabic & Islamic History",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1J5pekZIKI3rnQLlJhKMmbX_oiZgjI5i_?usp=drive_link"
         },
         {
             "code": "1st Sem",
@@ -141,10 +25,34 @@
             "prev_question": "https://drive.google.com/drive/folders/1DNI8AOTejA2BgqGtenHW9P0sfBEEmQiB?usp=share_link"
         },
         {
+            "code": "3rd Sem",
+            "title": "BA Economics",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1_kL_4sFUbOpHITaEKbBLHk512m0_r1D9?usp=drive_link"
+        },
+        {
+            "code": "5th Sem",
+            "title": "BA Economics",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/15WFSrbsIV076hsf4-BPFrA32mlzIevhX?usp=drive_link"
+        },
+        {
             "code": "1st Sem",
             "title": "BA English Language & Literature",
             "pdf": "#",
             "prev_question": "https://drive.google.com/drive/folders/1oBO54-EuvW_ziScGKf0GNdzFyhi6J54d?usp=share_link"
+        },
+        {
+            "code": "3rd Sem",
+            "title": "BA English Language & Literature",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1MN4inYAspCelu-uShD7g83gPvOo-n77t?usp=drive_link"
+        },
+        {
+            "code": "5th Sem",
+            "title": "BA English Language & Literature",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/14c36YYJ84eChX6G1s2B_KqrZkKUdSBrq?usp=drive_link"
         },
         {
             "code": "1st Sem",
@@ -153,10 +61,34 @@
             "prev_question": "https://drive.google.com/drive/folders/1qKkiFpQfKRf6E1bnC-CNGjyrHjLudhdU?usp=share_link"
         },
         {
+            "code": "3rd Sem",
+            "title": "BA Functional English",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1lTjTCrN0e-gH2hgf3zibl7YmMRAMo-Yo?usp=drive_link"
+        },
+        {
+            "code": "5th Sem",
+            "title": "BA Functional English",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1YKc4z7JcfizZUlj9suhuHDBu3kArwiHx?usp=drive_link"
+        },
+        {
             "code": "1st Sem",
             "title": "BA Malayalam",
             "pdf": "#",
             "prev_question": "https://drive.google.com/drive/folders/1bbAvEq4CLT-cjIkdfEavrVe6Jgk2PxS3?usp=share_link"
+        },
+        {
+            "code": "3rd Sem",
+            "title": "BA Malayalam",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1GBsWjo_rzB4lov4RDKbv8LV9rLkEYwGj?usp=drive_link"
+        },
+        {
+            "code": "5th Sem",
+            "title": "BA Malayalam",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1AdibdpSPnvqi4_8_bUWv8u6OxVzbj_Un?usp=drive_link"
         },
         {
             "code": "1st Sem",
@@ -165,10 +97,34 @@
             "prev_question": "https://drive.google.com/drive/folders/1A8jyYNCeyrUtTG6y-o89j36mL4HQ11FL?usp=share_link"
         },
         {
+            "code": "3rd Sem",
+            "title": "BA Sociology",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1rcF-OLI671z985H1oOBB9UVaqyCSSYzJ?usp=drive_link"
+        },
+        {
+            "code": "5th Sem",
+            "title": "BA Sociology",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/17bYMcrZqzEIUMTjjhBKiery_r0aP-qcy?usp=drive_link"
+        },
+        {
             "code": "1st Sem",
             "title": "BSc Zoology",
             "pdf": "#",
             "prev_question": "https://drive.google.com/drive/folders/1h3J94XnHisQSHCH97TGA00317iToxnio?usp=share_link"
+        },
+        {
+            "code": "3rd Sem",
+            "title": "BSc Zoology",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1ZfXdmOIMvGsb9JnQip6oavMRgRXjN6fQ?usp=drive_link"
+        },
+        {
+            "code": "5th Sem",
+            "title": "BSc Zoology",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1QbpU8v1_cMd6muJ51pqpjD8VlihvKo05?usp=drive_link"
         },
         {
             "code": "1st Sem",
@@ -177,10 +133,34 @@
             "prev_question": "https://drive.google.com/drive/folders/1kA3FQXhXh_exAq1IpIIssS0Ihjas2p8L?usp=share_link"
         },
         {
+            "code": "3rd Sem",
+            "title": "BSc Botany",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1U2BPzYkMx5HJVV_PSgQhW_xR-LW6EFyx?usp=drive_link"
+        },
+        {
+            "code": "5th Sem",
+            "title": "BSc Botany",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1NPtv849aL0iueV7ghLcIeK47JWhLUzgV?usp=drive_link"
+        },
+        {
             "code": "1st Sem",
             "title": "BSc Physics",
             "pdf": "#",
             "prev_question": "https://drive.google.com/drive/folders/11MOLSFhn0Z8GKm-ZfR2kR_2SyHgY_vfv?usp=share_link"
+        },
+        {
+            "code": "3rd Sem",
+            "title": "BSc Physics",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1nH9TjuQHpLIwhzphQUwrHtnzkmgZYkzk?usp=drive_link"
+        },
+        {
+            "code": "5th Sem",
+            "title": "BSc Physics",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1tR5tAv69vVu7THgH5yyJ4GUC7r2jsUeR?usp=drive_link"
         },
         {
             "code": "1st Sem",
@@ -189,17 +169,52 @@
             "prev_question": "https://drive.google.com/drive/folders/16-QC3GkTSqciZgZzz_eNyzA_pGGDJ-KF?usp=share_link"
         },
         {
+            "code": "3rd Sem",
+            "title": "BSc Chemistry",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1hKkgPuS95aymCw34qdHaNi9zMEgwt7n6?usp=drive_link"
+        },
+        {
+            "code": "5th Sem",
+            "title": "BSc Chemistry",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1qS-1Og9-B72kNuhUnT7HDavIYwpdMXau?usp=drive_link"
+        },
+        {
             "code": "1st Sem",
             "title": "BSc Mathematics",
             "pdf": "#",
             "prev_question": "https://drive.google.com/drive/folders/1Ci2ZW9zHDua1v_mdXYpUIfU6aysQ8d4q?usp=share_link"
         },
-        
+        {
+            "code": "3rd Sem",
+            "title": "BSc Mathematics",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/19mieY7HP6HSTPTGhQqIQw_OIcGbZQDMb?usp=drive_link"
+        },
+        {
+            "code": "5th Sem",
+            "title": "BSc Mathematics",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1VZmEQaikb5jhdMLkdCwA-Y9iqT4zZq79?usp=drive_link"
+        },
         {
             "code": "1st Sem",
             "title": "BSc Computer Science",
             "pdf": "#",
             "prev_question": "https://drive.google.com/drive/folders/1EyIVHnU15JrV0-HyNxuA2nixhmlibpii?usp=share_link"
+        },
+        {
+            "code": "3rd Sem",
+            "title": "BSc Computer Science",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1HIWaKm1zkqN_zRkqMoUudhGeDReXZiC9?usp=drive_link"
+        },
+        {
+            "code": "5th Sem",
+            "title": "BSc Computer Science",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1KK07hNwBdlIchbbzsyp-6Jyg0XB0vn_u?usp=drive_link"
         },
         {
             "code": "1st Sem",
@@ -208,17 +223,52 @@
             "prev_question": "https://drive.google.com/drive/folders/1xgxEmOfy6f2870YhiAxsIcRX3nCw63i5?usp=share_link"
         },
         {
+            "code": "3rd Sem",
+            "title": "BSc Psychology",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/107mjEeBGzYT6VTi4Jr4IBwd2oEXiTusf?usp=drive_link"
+        },
+        {
+            "code": "5th Sem",
+            "title": "BSc Psychology",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1YfGAtAc4GPJps0RUQK_t4XnDtoq9qnFA?usp=drive_link"
+        },
+        {
             "code": "1st Sem",
             "title": "BSc Statistics",
             "pdf": "#",
             "prev_question": "https://drive.google.com/drive/folders/16JO8rnG0vxCbm7sSqL_VKrYu1GQPVgIW?usp=share_link"
         },
-        
+        {
+            "code": "3rd Sem",
+            "title": "BSc Statistics",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1GnD1SLHlclBXuSC8l18PdTfA9-C-GBX8?usp=drive_link"
+        },
+        {
+            "code": "5th Sem",
+            "title": "BSc Statistics",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1edIzR6kosQFzwnL6wi16H-w-MiXqk24r?usp=drive_link"
+        },
         {
             "code": "1st Sem",
             "title": "BA Multimedia Communication",
             "pdf": "#",
             "prev_question": "https://drive.google.com/drive/folders/10dVEFmZoRt2qGavSkxCDHCl9DkwhDqxp?usp=share_link"
+        },
+        {
+            "code": "3rd Sem",
+            "title": "BA Multimedia Communication",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1qS0kGjRQeOisGEPF9PDwf7H50VuwiPU9?usp=drive_link"
+        },
+        {
+            "code": "5th Sem",
+            "title": "BA Multimedia Communication",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1SxOlNW40pIUspkFF7Nr0oK9jmB3dtTvz?usp=drive_link"
         },
         {
             "code": "1st Sem",
@@ -227,10 +277,34 @@
             "prev_question": "https://drive.google.com/drive/folders/1MNShunx6Ra41WNRrIC8wqCOftMKrKxiU?usp=share_link"
         },
         {
+            "code": "3rd Sem",
+            "title": "BBA",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1kUPMh6Lkz3G7JIXeKVDw5e2iQjBKhkv7?usp=drive_link"
+        },
+        {
+            "code": "5th Sem",
+            "title": "BBA",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1FxTf7YmoKpO3xWlE4fIkVSWZ9H63IWco?usp=drive_link"
+        },
+        {
             "code": "1st Sem",
             "title": "BCom",
             "pdf": "#",
             "prev_question": "https://drive.google.com/drive/folders/1Fa88lGRKPYpsyp6NvuatPFxnUxK2EMpn?usp=share_link"
+        },
+        {
+            "code": "3rd Sem",
+            "title": "BCom",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1VYDJkNomDd5d2jktIf1QcsRKVf0VuFk-?usp=drive_link"
+        },
+        {
+            "code": "5th Sem",
+            "title": "BCom",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1wnD6cQM6TV9Mf1GP08LKpV_H4FKAIqZv?usp=drive_link"
         },
         {
             "code": "1st Sem",
@@ -239,10 +313,34 @@
             "prev_question": "https://drive.google.com/drive/folders/1F52plai2wL7HDoF5J8YGrlPrBzq53Qp_?usp=share_link"
         },
         {
+            "code": "3rd Sem",
+            "title": "BCom CA",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/19hABE3yMAB5c9jspEfJxMWywsHxHgCQF?usp=drive_link"
+        },
+        {
+            "code": "5th Sem",
+            "title": "BCom CA",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1hW-OI2-ZtKi6kckAg9sqdF68UnOpCMPL?usp=drive_link"
+        },
+        {
             "code": "1st Sem",
             "title": "BVoc Automobiles",
             "pdf": "#",
             "prev_question": "https://drive.google.com/drive/folders/10RFQHZAWFXmUz5_3FAMu83J9WHzPrQrZ?usp=share_link"
+        },
+        {
+            "code": "3rd Sem",
+            "title": "BVoc Automobiles",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/10ea6xcLGLlwb0Va-NEbBRS0JXkezISsC?usp=drive_link"
+        },
+        {
+            "code": "5th Sem",
+            "title": "BVoc Automobiles",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/10fb1EUIOQ-jnwtp9LB6CEwLcaCZcy_Yh?usp=drive_link"
         },
         {
             "code": "1st Sem",
@@ -251,10 +349,64 @@
             "prev_question": "https://drive.google.com/drive/folders/10jAmSGNbc1NParm46N7HZUK6u547z2_t?usp=share_link"
         },
         {
+            "code": "3rd Sem",
+            "title": "BVoc Software Developement",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/10u_pA1zYGuvjcGBsYvo-AsJxHdVCjNvg?usp=drive_link"
+        },
+        {
+            "code": "5th Sem",
+            "title": "BVoc Software Developement",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/10yCJu3EsvZ_O6vayFAqMT9VXdO2jDqNM?usp=drive_link"
+        },
+        {
             "code": "1st Sem",
             "title": "Geology",
             "pdf": "#",
             "prev_question": "https://drive.google.com/drive/folders/1slyW9BOpFH3hOLNBE6k0os-3fl79rStf?usp=share_link"
+        },
+        {
+            "code": "3rd Sem",
+            "title": "Geology",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1pUHtlq8T2V1KVO8qOpUcLto5uCSlJM6U?usp=drive_link"
+        }, 
+        {
+            "code": "5th Sem",
+            "title": "Geology",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1o5SmuFuIfDUoYDhb2cLr7ubeDgCXZxVY?usp=drive_link"
+        },
+        {
+            "code": "7th Sem",
+            "title": "Geology",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1k1MVbi9hpC0xIfW_3ewBBm-TPbHJk07Z?usp=drive_link"
+        },
+        {
+            "code": "9th Sem",
+            "title": "Geology",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/15OwtrhesEs-5HY4sT4Q5Z4pTcVfuA4fT?usp=drive_link"
+        },
+        {   
+            "code": "1st Sem",
+            "title": "Second Languages",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/10lPur0RnJEyI6pqJCrBuhOz_3BaWWQ7F?usp=share_link"
+        },
+        {   
+            "code": "3rd Sem",
+            "title": "Second Languages",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1Iy7xyP2YxF2mzVqUJOvgj8rcf_wfWnwF?usp=drive_link"
+        },
+        {   
+            "code": "5th Sem",
+            "title": "Open Courses",
+            "pdf": "#",
+            "prev_question": "https://drive.google.com/drive/folders/1Iy7xyP2YxF2mzVqUJOvgj8rcf_wfWnwF?usp=drive_link"
         }
         
     ]
